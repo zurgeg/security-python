@@ -1,7 +1,7 @@
-#Security-python
+# Security-python
 A basic security module
 
-##Using it
+## Using it
 To generate a user:
 ```security.genuser("Hello", "password")```
 Doing this will return a dictionary with the following:
